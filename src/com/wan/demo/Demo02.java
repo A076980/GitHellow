@@ -12,7 +12,7 @@ public class Demo02 {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("cs2");
+		System.out.println("cs23");
 
 	}
 
